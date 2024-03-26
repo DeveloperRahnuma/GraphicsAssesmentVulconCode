@@ -6,7 +6,7 @@ Welcome to the design challenge ! We're thrilled to have you participate. This c
 
 ## Challenge Overview
 
-Your task is to design a page that could be added to our existing website, cosmology.zone. You have the freedom to choose from one of the following project ideas:
+Your task is to design a page that could be added to our existing website. You have the freedom to choose from one of the following project ideas:
 
 - **Landing Page for a New Product:** Imagine we're launching a new product or feature. Design a compelling landing page that introduces this product/feature to our audience.
 - **About Us Page:** We want to revamp our current "About Us" page. Design a page that tells our story in a more engaging and innovative way.
